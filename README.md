@@ -6,4 +6,4 @@
 
 
 
-![nfuScore](../image/gif/nfuScore.gif)
+![nfuScore](https://github.com/liuxueji/nfuScore/blob/master/nfuScore.gif)
